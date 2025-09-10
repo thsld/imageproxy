@@ -1,0 +1,5 @@
+# flyctl launch added from .gitignore
+**/.cache
+# Only exclude the compiled binary at the root, not the cmd/imageproxy directory
+/imageproxy
+fly.toml
